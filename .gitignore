@@ -1,0 +1,41 @@
+# Visual Studio
+[Dd]ebug/
+[Rr]elease/
+[xX]64/Debug/
+[xX]64/Release/
+[xX]86/Debug/
+[xX]86/Release/
+[Oo]bj/
+[Bb]in/
+[Ll]og/**
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio for Mac
+.vscode/
+*.sln.ide
+*.sln.user
+*.sln.userprefs
+*.ncb
+*.sdf
+*.opensdf
+*.sln.cache
+*.sln.suo
+
+# MAUI
+*.maui/**
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.sln.docstates
+*.ncb
+*.opendb
+*.wixproj
+*.deploy
+*/bin/
+*/obj/
+*/out/
+*/output/
